@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-src/testpackage.egg-info/PKG-INFO
-src/testpackage.egg-info/SOURCES.txt
-src/testpackage.egg-info/dependency_links.txt
-src/testpackage.egg-info/not-zip-safe
-src/testpackage.egg-info/requires.txt
-src/testpackage.egg-info/top_level.txt
