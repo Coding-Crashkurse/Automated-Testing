@@ -2,5 +2,5 @@
 
 
 def do_math(a, b):
-    print(a + b)
+    print(a)
     return a + b
